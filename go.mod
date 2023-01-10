@@ -1,4 +1,4 @@
-module struct2csv
+module github.com/sociusco/struct2csv
 
 go 1.17
 
